@@ -1,0 +1,16 @@
+D:\Git\TransferSolution\TransferServerLib\bin\Debug\TransferServerLib.dll
+D:\Git\TransferSolution\TransferServerLib\bin\Debug\TransferServerLib.pdb
+D:\Git\TransferSolution\TransferServerLib\obj\Debug\TransferServerLib.dll
+D:\Git\TransferSolution\TransferServerLib\obj\Debug\TransferServerLib.pdb
+F:\MyWork\TransferSolution\TransferServerLib\obj\Debug\TransferServerLib.csprojResolveAssemblyReference.cache
+F:\MyWork\TransferSolution\TransferServerLib\obj\Debug\TransferServerLib.dll
+F:\MyWork\TransferSolution\TransferServerLib\obj\Debug\TransferServerLib.pdb
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\Config\log4net.config
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\TransferServerLib.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\TransferServerLib.pdb
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\SuperSocket.Common.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\SuperSocket.Facility.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\SuperSocket.SocketBase.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\SuperSocket.SocketEngine.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\TransferCommon.dll
+F:\MyWork\TransferSolution\TransferServerLib\bin\Debug\TransferCommon.pdb

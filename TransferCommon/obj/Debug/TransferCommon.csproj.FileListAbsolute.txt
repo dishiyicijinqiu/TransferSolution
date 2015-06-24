@@ -1,0 +1,8 @@
+D:\Git\TransferSolution\TransferCommon\bin\Debug\TransferCommon.dll
+D:\Git\TransferSolution\TransferCommon\bin\Debug\TransferCommon.pdb
+D:\Git\TransferSolution\TransferCommon\obj\Debug\TransferCommon.dll
+D:\Git\TransferSolution\TransferCommon\obj\Debug\TransferCommon.pdb
+F:\MyWork\TransferSolution\TransferCommon\bin\Debug\TransferCommon.dll
+F:\MyWork\TransferSolution\TransferCommon\bin\Debug\TransferCommon.pdb
+F:\MyWork\TransferSolution\TransferCommon\obj\Debug\TransferCommon.dll
+F:\MyWork\TransferSolution\TransferCommon\obj\Debug\TransferCommon.pdb
